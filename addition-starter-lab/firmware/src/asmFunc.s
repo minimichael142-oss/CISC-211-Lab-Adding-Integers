@@ -9,7 +9,7 @@
 /* create a string */
     
 /*** STUDENTS: HINT: this is the string that the C code prints out!  **/
-nameStr: .asciz "Hello. My name is Inigo Montoya."  
+nameStr: .asciz "Hello. My name is Michael Martinez Ambrosio."  
 
  .align
  
@@ -53,7 +53,6 @@ asmFunc:
     push {r4-r11,LR}
     
     /*** STUDENTS: Place your code BELOW this line!!! **************/
-
 
     /*** STUDENTS: Place your code ABOVE this line!!! **************/
     
